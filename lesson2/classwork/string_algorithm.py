@@ -19,10 +19,10 @@ for ch in word2:
 
 print("Vowel count:", total)
 
-# Check if a word is a plalindrone
-# palindrone: front = back
+# Check if a word is a plalindrome
+# palindrome: front = back
 test = "racecar"
 if test = test[:-1]:
-  print(test, "is a palindrone")
+  print(test, "is a palindrome")
 else:
-  print(test, "is not a palindrone")
+  print(test, "is not a palindrome")
