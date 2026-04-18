@@ -22,7 +22,7 @@ print("Vowel count:", total)
 # Check if a word is a plalindrome
 # palindrome: front = back
 test = "racecar"
-if test = test[:-1]:
+if test = test[::-1]:
   print(test, "is a palindrome")
 else:
   print(test, "is not a palindrome")
